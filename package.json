@@ -1,0 +1,19 @@
+{
+  "name": "mypackagelitnn",
+  "version": "1.0.10",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozan-yavuz/testrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozan-yavuz/testrepo/issues"
+  },
+  "homepage": "https://github.com/ozan-yavuz/testrepo#readme"
+}
