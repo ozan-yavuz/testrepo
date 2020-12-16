@@ -32,7 +32,7 @@ project-name
   
 - Go to **AppGallery Connect > My Apps > New App**. Create your application.
 
-![appgallery_connect](docs/images/appgallery_connect.png)
+![appgallery_connect](docs/images/appgalleryconnect.png)
 ![my_apps](docs/images/my_apps.png)
 ![new_app](docs/images/new_app.png)
 
